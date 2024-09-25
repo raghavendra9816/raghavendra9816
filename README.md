@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Achyut Adhikari
-- 👀 I’m interested in Web Devlopment||Ml||Artificial Intelligence
-- 🌱 I’m currently learning Node Js
+- 👀 I’m interested in Web Devlopment||Ml||Artificial Intelligence||Data Acience
+- 🌱 I’m currently learning Asp.net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9816869591
 - 😄 Pronouns: ...
